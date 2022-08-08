@@ -1,0 +1,27 @@
+.title {
+  text-align: center;
+}
+
+.centerContent {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.slide1 {
+  background: darkred;
+  color: white;
+}
+
+.slide2 {
+  background: yellow;
+  color: black;
+}
+
+.slide3 {
+  background: darkgreen;
+  color: white;
+}
