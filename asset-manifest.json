@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/carousel-preview/static/css/main.fda7e709.css",
+    "main.js": "/carousel-preview/static/js/main.da5f0645.js",
+    "index.html": "/carousel-preview/index.html",
+    "main.fda7e709.css.map": "/carousel-preview/static/css/main.fda7e709.css.map",
+    "main.da5f0645.js.map": "/carousel-preview/static/js/main.da5f0645.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda7e709.css",
+    "static/js/main.da5f0645.js"
+  ]
+}
